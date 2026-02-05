@@ -1,3 +1,5 @@
+--use the stry md file i have made a previous experiment in Visual sudio. i want a similar file for my Product - Multi-Agent PRD → Jira Execution Line. use elements from the story file but not exactly - i want to create 
+
 # Multi‑Agent E‑Commerce Story (Human‑Friendly Spec)
 
 This document explains, in plain language, how the `multi-agent-ecommerce-cart/main.py` app works.  
